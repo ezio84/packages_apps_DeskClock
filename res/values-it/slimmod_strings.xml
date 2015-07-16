@@ -21,4 +21,6 @@
     <!-- Setting summary for showing/hiding the alarm statusbar icon -->
     <string name="show_status_bar_icon_summary">Mostra un\'icona nella barra di stato se è attivo un allarme</string>
 
+    <string name="alarm_increasing_volume">Volume crescente</string>
+
 </resources>
